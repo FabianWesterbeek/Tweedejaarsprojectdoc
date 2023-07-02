@@ -6,7 +6,7 @@
 - [Dependencies](#dependencies)
 # Documentation product notebooks <!-- omit from toc -->
 
-This repository contains the following notebooks:
+The full repository contains the following notebooks:
 
 - ```p_scopus.ipynb```: Extracts the data from Scopus API and stores it in the ```data``` folder.
 - ```p_results.ipynb```: Generates the results of the classification.
